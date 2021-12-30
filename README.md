@@ -3,8 +3,8 @@
 Facebook application is core java based project, which is implemented to provide some of the basic features to the user to interact with the application and allowing the user to 
 edit the profile and retrive the data about the profiles. simple console based application in this project JDBC also used to strore and retrive the data.
 ## Technologies Used:
-1.JDK 16.0.2
-2.oracle 11g
+1.JDK 16.0.2  
+2.oracle 11g  
 3.junit 4
 ## Feature:
 Facebook Application App is providing some the features to the user such as
