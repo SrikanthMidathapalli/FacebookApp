@@ -24,7 +24,7 @@ some of the features which are going to update soon are
 3.upload photo
 4.updating this application to GUI by using  HTML,CSS,JAVAsCRIPT AND SERVLETS
 ##  Getting Started:
-git clone https://github.com/SrikanthMidathapalli/Project0.git
+git clone https://github.com/SrikanthMidathapalli/FacebookApp_Project0.git
 cd my-project 
 ## usage:
 After project come reside into your local system 
